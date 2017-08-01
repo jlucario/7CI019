@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="7CI019" id="DA7170CC-EDDA-7912-B10B-3A888C62158C" version="3.5">
+<createdBy>James Braznell PC</createdBy>
+<createdTime>2015-04-05 18:05:06 UTC</createdTime>
+<ownerDesignName>7CI019</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>DA7170CC-EDDA-7912-B10B-3A888C62158C</designId>
+</OSDM_Design>
